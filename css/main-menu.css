@@ -1,0 +1,23 @@
+header {
+  margin: 0px;
+  padding: 0px; }
+  header .header-logo {
+    box-sizing: border-box;
+    padding-left: 50px;
+    vertical-align: center;
+    width: 100%;
+    font-size: 20px; }
+  header nav.main-menu {
+    background-color: #303030;
+    color: white; }
+    header nav.main-menu ul {
+      list-style-type: none;
+      font-size: 18px;
+      display: block;
+      margin: 0px;
+      box-sizing: border-box; }
+      header nav.main-menu ul li {
+        display: inline-block; }
+        header nav.main-menu ul li a {
+          display: block;
+          margin: 20px; }
